@@ -32,7 +32,7 @@
                   <a href="/empleados/{{$empleado->id}}/edit"class="btn btn-info">Editar</a>
                  @csrf
                  @method ('delete')
-                  <button type="submit"  class="btn btn-danger">Borrar</button>
+                  <button type="submit"  class="btn btn-danger" onclick="return confirm('Seguro que desea eliminar?')">Borrar</button>
                 </form>
               </th>
             </tr>
