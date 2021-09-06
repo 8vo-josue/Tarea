@@ -1,3 +1,11 @@
+
+## Documentación sobre el crud desarrollado en laravel 
+Este link contiene un video donde se explica el funcionamiento del crud y una carpeta donde se encuentran todos los archivos del proyecto
+https://drive.google.com/drive/folders/1ypT0dlElAObMaI_yfgckblIbgc8ym7sh?usp=sharing
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
